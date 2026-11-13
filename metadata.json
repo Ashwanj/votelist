@@ -1,0 +1,6 @@
+{
+  "name": "Matdata Slip Studio",
+  "description": "Voter List PDF & Scanned Hindi+English OCR to 2-Column Voter Slip Generator with Editing, Polling Booth Configuration, and A4 Print/PDF Export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
